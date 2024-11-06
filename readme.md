@@ -17,8 +17,8 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=naitikmp&show_icons=true" alt="naitikmp" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikmp&hide_border=true" alt="naitikmp" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=naitikmp&show_icons=true" alt="naitikmp" />
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=naitikmp&hide_border=true" alt="naitikmp" />
 </p>
 
 ---
