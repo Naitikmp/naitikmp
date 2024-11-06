@@ -8,7 +8,7 @@
   in delivering high-performance AI solutions, from real-time object detection to complex time-series prediction models
 . Ready to contribute to team success with advanced analytical skills, a commitment to innovation, and a collaborative approach to problem-solving.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naitikmp" alt="pragativerma18" /> </p>
 
 ## 🛠️ Tech Stack
 <!-- BLOG-POST-LIST:START -->
