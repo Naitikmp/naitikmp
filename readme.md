@@ -3,9 +3,10 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Naitik Patel</h1>
-<p align="center">Enthusiastic <a href="https://pragati-verma.super.site/">backend developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
-excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
-
+<p align="center">Passionate <a href="https://naitikmp.vercel.app/">AI & Web Developer 👨‍💻</a> , with hands-on experience in backend development and a keen eye for detail, dedicated to driving impactful project outcomes. Strong foundation
+ in frontend and backend integration, coupled with expertise in data analysis, visualization, and deep learning. Experienced in managing end-to-end project lifecycles, with a proven track record
+  in delivering high-performance AI solutions, from real-time object detection to complex time-series prediction models
+. Ready to contribute to team success with advanced analytical skills, a commitment to innovation, and a collaborative approach to problem-solving.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
 
